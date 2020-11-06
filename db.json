@@ -1,8 +1,6 @@
 [
   {
-    "postId": 1,
     "id": 1,
-    "opacity":0.800000011920929,
     "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
@@ -11,9 +9,7 @@
     "styles":{"fill":"1000012:4","text":"1000003:10"
   },
   {
-    "postId": 1,
     "id": 2,
-    "opacity":0.8000000119998929,
     "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
