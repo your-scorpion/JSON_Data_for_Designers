@@ -13,6 +13,7 @@
   {
     "postId": 1,
     "id": 2,
+    "opacity":0.8000000119998929,
     "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
