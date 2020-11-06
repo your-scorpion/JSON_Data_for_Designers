@@ -4,6 +4,14 @@
     "id": 1,
     "title": "delectus aut autem",
     "completed": false
+    "opacity":0.800000011920929,
+    "blendMode":"NORMAL",
+    "type":"SOLID",
+    "color":{"r":0,"g":0,"b":0,"a":1}}],
+    "strokes":[],
+    "strokeWeight":1,
+    "strokeAlign":"OUTSIDE",
+    "styles":{"fill":"1000012:4","text":"1000003:10"
   },
   {
     "userId": 1,
