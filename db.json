@@ -1,21 +1,20 @@
 [
   {
+    "userId": 1,
     "id": 1,
-    "blendMode":"NORMAL",
-    "type":"SOLID",
-    "color":{"r":0,"g":0,"b":0,"a":1}}],
-    "strokeWeight":1,
-    "strokeAlign":"OUTSIDE",
-    "styles":{"fill":"1000012:4","text":"1000003:10"
+    "title": "delectus aut autem",
+    "completed": false
   },
   {
+    "userId": 1,
     "id": 2,
-    "blendMode":"NORMAL",
-    "type":"SOLID",
-    "color":{"r":0,"g":0,"b":0,"a":1}}],
-    "strokeWeight":1,
-    "strokeAlign":"OUTSIDE",
-    "styles":{"fill":"1000012:4","text":"1000003:10"
-  }
+    "title": "quis ut nam facilis et officia qui",
+    "completed": false
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "fugiat veniam minus",
+    "completed": false
+  },
 ]
-
