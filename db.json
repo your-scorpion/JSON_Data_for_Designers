@@ -18,6 +18,7 @@
     "color":{"r":0,"g":0,"b":0,"a":1}}],
     "strokes":[],
     "strokeWeight":1,
+    "constraints":{"vertical":"TOP","horizontal":"LEFT"},
     "strokeAlign":"OUTSIDE",
     "styles":{"fill":"1000012:4","text":"1000003:10"
   },
@@ -38,6 +39,7 @@
     "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
+    "effects":[{"type":"INNER_SHADOW","visible":true,"color":{"r":0.9833333492279053,"g":0.7976469993591309,"b":0.13930553197860718,"a":1},"blendMode":"NORMAL","offset":{"x":0,"y":-4},"radius":0}]},
     "strokes":[],
     "strokeWeight":1,
     "strokeAlign":"OUTSIDE",
