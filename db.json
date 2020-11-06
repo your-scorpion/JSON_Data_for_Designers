@@ -6,17 +6,19 @@
     "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
-    "strokes":[],"strokeWeight":1,
+    "strokes":[],
+    "strokeWeight":1,
     "strokeAlign":"OUTSIDE",
     "styles":{"fill":"1000012:4","text":"1000003:10"
   },
   {
     "postId": 1,
     "id": 2,
-     "blendMode":"NORMAL",
+    "blendMode":"NORMAL",
     "type":"SOLID",
     "color":{"r":0,"g":0,"b":0,"a":1}}],
-    "strokes":[],"strokeWeight":1,
+    "strokes":[],
+    "strokeWeight":1,
     "strokeAlign":"OUTSIDE",
     "styles":{"fill":"1000012:4","text":"1000003:10"
   }
