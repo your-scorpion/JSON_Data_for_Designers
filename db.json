@@ -2,15 +2,23 @@
   {
     "postId": 1,
     "id": 1,
-    "name": "id labore ex et quam laborum",
-    "email": "Eliseo@gardner.biz",
-    "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
+    "opacity":0.800000011920929,
+    "blendMode":"NORMAL",
+    "type":"SOLID",
+    "color":{"r":0,"g":0,"b":0,"a":1}}],
+    "strokes":[],"strokeWeight":1,
+    "strokeAlign":"OUTSIDE",
+    "styles":{"fill":"1000012:4","text":"1000003:10"
   },
   {
     "postId": 1,
     "id": 2,
-    "name": "quo vero reiciendis velit similique earum",
-    "email": "Jayne_Kuhic@sydney.com",
-    "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
+     "blendMode":"NORMAL",
+    "type":"SOLID",
+    "color":{"r":0,"g":0,"b":0,"a":1}}],
+    "strokes":[],"strokeWeight":1,
+    "strokeAlign":"OUTSIDE",
+    "styles":{"fill":"1000012:4","text":"1000003:10"
   }
 ]
+
